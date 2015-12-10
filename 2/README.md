@@ -13,6 +13,16 @@ Since Santa gets a discount at Toys ‘R’ Us, the prices aren’t exactly roun
 ## Input Description
 A file containing a json object with keys of the toys name (a word without spaces), and value of the toy’s price in pence (an integer).
 
+Eg.
+```js
+{
+    'A': 12,
+    'B': 32,
+    'C': 41,
+    'a': 78
+}
+```
+
 ## Output Description
 One line per solution - each a comma-separated set of quantity+name pairs, describing how many toys of which kind to buy.
 
