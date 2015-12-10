@@ -4,8 +4,6 @@ function getInput() {
     return JSON.parse(fs.readFileSync(inputFile));
 }
 
-console.log(getInput());
-
 /*
     Pass your answer in the form:
     [
