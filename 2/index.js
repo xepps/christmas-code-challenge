@@ -20,5 +20,5 @@ function outputAnswer(answer) {
                 return carry + key + ' ' + solution[key];
             }, '')
         );
-    })
+    });
 }
