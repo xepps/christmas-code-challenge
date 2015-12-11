@@ -1,7 +1,7 @@
 # Challenge 1 - Fallout Family Feast
 
 ## Description
-Just in time for Christmas in the Fallout universe, scientists have discovered a mutation in the species known as Vaccinium Oxycoccos, or English cranberry bush. The cranberries of this new strain has been found to feed one person for a whole week, and best of all - the plant never dies!
+Just in time for Christmas in the Fallout universe, scientists have finally completed mixing the genes of partridges and pear trees. The fruit of this new plant has been discovered to have wondrous properties: it can feed one person for a whole week and the plant never dies!
 
 Fruits need one week to grow, so each week you can harvest its fruits. Also, the plant gives one fuit more than the week before. To grow more plants, you only need to plant a fruit.
 

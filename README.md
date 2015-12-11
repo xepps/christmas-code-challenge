@@ -11,7 +11,7 @@ Also, bonus points will be awarded for each of the following (at my discretion):
 * five bonus points if you finish all the code challenges, but were not first;
 * eight bonus points if you finish all the code challenges first;
 
-The challenges can be completed either on your own or in teams of up to 3. Challenges can be completed in any language, but I have provided some boilerplate javascript if you want a quick start.
+The challenges can be completed either on your own or in teams of up to 3. Challenges can be completed in any language, but I have provided some boilerplate javascript if you want a quick start. They can also be completed in any order so you can try and maximise your points!
 
 After completing a challenge, come and see me to validate your code and award your points.
 
