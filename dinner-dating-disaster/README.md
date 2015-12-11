@@ -1,7 +1,7 @@
 # Challenge 3 - Dinner Dating Disaster 
 
 ## Description
-It’s the Christmas party at the BBC and people are working out who they want to take as a date! For a set of men {A,B,…,Z} and a set of women {a,b,...,z} they have a preference table - A would prefer to go with b, but would be satisfied with going with c; c would prefer to go with B, but would be ok to go with C, etc.
+It’s the Christmas party at the BBC and people are working out who they want to take as a date! For a set of men {A,B,…,Z} who are attracted to a set of women {a,b,...,z} (and vice versa) they have a preference table - A would prefer to go with b, but would be satisfied with going with c; c would prefer to go with B, but would be ok to go with C, etc.
 
 Matches are considered unstable if there exists a pair who likes each other more than their current date. The challenge is then to construct a stable set of dates, given their preferences.
 

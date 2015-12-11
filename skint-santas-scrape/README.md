@@ -24,7 +24,7 @@ Eg.
 ```
 
 ## Output Description
-One line per solution - each a comma-separated set of quantity+name pairs, describing how many toys of which kind to buy.
+One line per solution - each a comma-separated set of quantity + name pairs, describing how many toys of which kind to buy.
 
 Do not list toys with a quantity of zero in the output.
 
