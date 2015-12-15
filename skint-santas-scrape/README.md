@@ -1,9 +1,9 @@
 # Challenge 2 - Skint Santa’s Scrape
 
 ## Description
-Due to a lack of finances, Father Christmas has been forced to fire his elfen workforce and can only spend £10 on each good boy or girl this year. However, since St Nick is super fair, he wants to spend exactly the same amount on each child.
+Due to a lack of finances, Father Christmas has been forced to fire his elfen workforce and can only spend £5 on each good boy or girl this year. However, since St Nick is super fair, he wants to spend exactly the same amount on each child.
 
-Since Santa gets a discount at Toys ‘R’ Us, the prices aren’t exactly round which makes this more difficult than intended. Your task is to write him a script that will take in a list of toys and prices, and output all the possible combinations of toys he could get for £10.
+Since Santa gets a discount at Toys ‘R’ Us, the prices aren’t exactly round which makes this more difficult than intended. Your task is to write him a script that will take in a list of toys and prices, and output all the possible combinations of toys he could get for £5.
 
 * The goal is always £5 (or 500p)
 * Solutions can include multiple toys of the same kind - assume they’re available in unlimited quantities.
