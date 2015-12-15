@@ -5,7 +5,7 @@ Due to a lack of finances, Father Christmas has been forced to fire his elfen wo
 
 Since Santa gets a discount at Toys ‘R’ Us, the prices aren’t exactly round which makes this more difficult than intended. Your task is to write him a script that will take in a list of toys and prices, and output all the possible combinations of toys he could get for £10.
 
-* The goal is always £10 (or 1000p)
+* The goal is always £5 (or 500p)
 * Solutions can include multiple toys of the same kind - assume they’re available in unlimited quantities.
 * Solutions do not need to include all available kinds of toys.
 * Determine all possible solutions for the given input
