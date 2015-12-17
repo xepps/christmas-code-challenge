@@ -17,4 +17,4 @@ After completing a challenge, come and see me to validate your code and award yo
 
 The person or team who has the most points at the end of the session wins a mystery prize!
 
-Boilerplate: github.com/xepps/christmas-code-challenge-2015
+Boilerplate: github.com/xepps/christmas-code-challenge
